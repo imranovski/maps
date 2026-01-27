@@ -152,7 +152,7 @@ Réaliser le MCD complet.
 ├─────────────────┤      ├─────────────────┤
 │ DateEmprunt     │(0,n) │ NumCarte        │
 │ DateRetourPrevue│◄─────│ Nom             │
-│ DateRetourEffec │      │ Prenom          │
+│ DateRetourEffect│      │ Prenom          │
 └─────────────────┘      │ Adresse         │
                          │ Tel             │
                          │ Email           │
@@ -160,11 +160,11 @@ Réaliser le MCD complet.
                                   │
                          ┌────────┴────────┐
                          │                 │
-                    ┌────┴────┐       ┌────┴────┐
-                    │ ETUDIANT│       │ ENSEIGN │
-                    ├─────────┤       ├─────────┤
-                    │ Filiere │       │ Grade   │
-                    └─────────┘       └─────────┘
+                    ┌────┴────┐       ┌─────────────┐
+                    │ ETUDIANT│       │  ENSEIGNANT │
+                    ├─────────┤       ├─────────────┤
+                    │ Filiere │       │ Grade       │
+                    └─────────┘       └─────────────┘
 ```
 
 ---

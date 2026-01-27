@@ -709,7 +709,7 @@ NOTE (#NumEtudiant, #CodeMatiere, DateEval, TypeEval, Valeur)
    - [ ] WHERE
    - [ ] ORDER BY
 
-**Réponses :** 1-MLD, 2-Clé étrangère côté N, 3-Intégrité référentielle, 4-Demande une valeur, 5-WHERE
+**Réponses :** 1-MCD, 2-Clé étrangère côté N, 3-Intégrité référentielle, 4-Demande une valeur, 5-WHERE
 
 ##### C. Questionnaire de satisfaction
 

@@ -246,7 +246,7 @@ LIGNE_COMMANDE (#NumCmd, #RefProd, Quantite, PrixVente)
 │ ─────────│                                                    │
 │ Tables   │                                                    │
 │ Requêtes │                                                    │
-│ Formul.  │                                                    │
+│ Formulaires│                                                  │
 │ États    │                                                    │
 │          │                                                    │
 ├───────────────────────────────────────────────────────────────┤
